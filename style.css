@@ -1,0 +1,51 @@
+
+
+body{
+	padding:0;
+	margin: 0;
+	background: #bbcff0 !important;
+
+}
+
+
+.navbar{
+	background: #1d5dc4;
+}
+
+
+.nav-link,
+.navbar-brand {
+	color: #bbcff0;
+	cursor: pointer;
+}
+
+.nav-link{
+	margin-right: 1em !important;
+}
+
+.nav-link:hover{
+	color: #fff;
+	text-decoration: underline !important;
+}
+
+.navbar-collapse{
+	justify-content: flex-end;
+}
+
+
+.header {
+  background-image: url('images/bgimage.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+ 
+
+}
+
+
+
+#canvas{
+	width: 90%;
+	height:500px;
+	background-color: grey;
+}
